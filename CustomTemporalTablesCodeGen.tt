@@ -24,7 +24,7 @@
   //  customtt_dt datetime2 -- creation time of a record in this table
   //  customtt_login varchar(50) NULL -- original_login() of a database user
   //  customtt_hostname varchar(50) NULL -- host_name() of a database user
-  //  customtt_hostip varchar](20) NULL -- CONNECTIONPROPERTY('client_net_address') of a database user
+  //  customtt_hostip varchar(20) NULL -- CONNECTIONPROPERTY('client_net_address') of a database user
   //  <original table fields>
 
   // Data changes tracking algorithm:
